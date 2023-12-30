@@ -26,5 +26,6 @@ Clonez ce dépôt dans votre projet :
     git clone https://github.com/Amedon-Roland/Parallax-effect.git
     ```
 
+Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à proposer des pull requests.
 
 
