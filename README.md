@@ -23,7 +23,7 @@ Pour dzécouvrir cet effet parallax sur un site web statique  :
 Clonez ce dépôt dans votre projet :
 
     ```
-    git clone https://github.com/votre-utilisateur/effet-parallax.git
+    git clone https://github.com/Amedon-Roland/Parallax-effect.git
     ```
 
 
